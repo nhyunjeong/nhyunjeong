@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nhyunjeong
-- 👀 I’m interested in sound data & AI 
+- 👀 I’m interested in sound & gan & image AI 
 - 🌱 I’m currently learning python & AI 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nhj931124@gmail.com 
